@@ -1,8 +1,9 @@
 # Caixa-IA-Generativa-DIO
 CAIXA - IA Generativa com Microsoft Copilot
 # CAIXA - IA Generativa com Microsoft Copilot
-Repositorio para guardar resumos e estudos sobre AWS.
-https://github.com/Gnunes03/Caixa-IA-Generativa-DIO/blob/main/ia-genera.jpg
+Repositorio para guardar resumos e estudos sobre AWS
+[image](https://github.com/Gnunes03/Caixa-IA-Generativa-DIO/blob/main/ia-genera.jpg)
+
 ## 📑 documentação
 
   
